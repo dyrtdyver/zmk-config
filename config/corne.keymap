@@ -31,6 +31,7 @@
         Enter-L {
             bindings = <&kp ENTER>;
             key-positions = <28 27>;
+            layers = <0>;
         };
     };
 
