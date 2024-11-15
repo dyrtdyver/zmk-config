@@ -24,7 +24,7 @@
 
         RTN_ENT-R {
             bindings = <&kp ENTER>;
-            key-positions = <19 20>;
+            key-positions = <40 19>;
         };
     };
 
